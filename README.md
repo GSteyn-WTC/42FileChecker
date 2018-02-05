@@ -219,6 +219,10 @@ If you want to be part of the project, to fix and to improve the 42FileChecker, 
 
 42FileChecker has an [**online wiki**](https://github.com/jgigault/42FileChecker/wiki) that gives you tips and lessons in Bash programming.
 
+## Known Issues
+
+* When running the `leaks` test for the first time, a box will apear and prompt you for administrator username and password. Enter `exam` and `exam` and everything will go along
+
 # other scripts
 
 <table width="100%">
